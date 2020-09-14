@@ -1,6 +1,6 @@
 <?php
 
-
+echo "xin chao lan thu 1";
 
 
 
