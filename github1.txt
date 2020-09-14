@@ -1,2 +1,3 @@
 chuyen ve local
 chuyen len repository
+su thay doi cua nhanh chinh se duoc pull tai cac nhanh phu se duoc keo ve
