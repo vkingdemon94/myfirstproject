@@ -1,1 +1,2 @@
 chuyen ve local
+chuyen len repository
