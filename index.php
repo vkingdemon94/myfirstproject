@@ -6,6 +6,7 @@ echo "xin chao lan thu 2";
 echo "xin chao lan thu 1";
 
 echo "xin chao lan thu 2";
+echo hjkl "xin chao
 
 
 
