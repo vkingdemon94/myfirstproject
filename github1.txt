@@ -1,2 +1,5 @@
 chuyen ve local
 chuyen len repository
+echo "xin chao lan thu 1";
+
+echo "xin chao lan thu 2";
